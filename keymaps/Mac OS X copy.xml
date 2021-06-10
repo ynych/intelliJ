@@ -1,0 +1,22 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="Exit">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="GuiDesigner.Duplicate" />
+  <action id="NextOccurence" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
