@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="jh" type="PLAIN_TEXT" />
+      <mapping ext="uml" type="PlantUML file" />
     </extensionMap>
   </component>
 </application>
