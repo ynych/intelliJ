@@ -4,7 +4,6 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="jh" type="PLAIN_TEXT" />
-      <mapping ext="dot" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
